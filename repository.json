@@ -2,7 +2,7 @@
     "$schema": "sublime://raw.githubusercontent.com/gerardroche/sublime-example-dependency-channel/master/repository",
     "schema_version": "4.0.0",
     "packages": [],
-    "repositories": [
+    "libraries": [
         {
             "name": "sublime_example_dependency",
             "description": "Example sublime dependency",
