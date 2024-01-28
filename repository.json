@@ -7,6 +7,7 @@
             "name": "sublime_example_dependency",
             "description": "Example sublime dependency",
             "author": "gerardroche",
+            "issues": "https://github.com/gerardroche/sublime-example-dependency/issues",
             "releases": [
                 {
                     "base": "https://github.com/gerardroche/sublime-example-dependency",
